@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Tinos');
+
+body {
+	font-family: times new roman, serif;
+}
+
+img {
+	width: 220px;
+    height: 321px;
+}
+
+div {
+	text-align: left;
+}
+
+#ref {
+	float: left;
+	width: 35%;
+}
+
+#ref2 {
+	float: right;
+	width: 35%;
+}
+
+a {
+	color: #8A2BE2;
+}
+
+a:visited {
+	color: #FF6347;
+}
+
+a:hover {
+	color: #FF7F50;
+}
+
+a:active {
+	color: #00FF00;
+}
+
+#border {
+	border: 1px;
+	border-style: solid;
+	border-color: #D3D3D3;
+	padding: 1px;
+	text-align: left;
+}
